@@ -10,6 +10,8 @@ requests.
 
 No authentication enabled, no SSL. Not Production ready!
 
-![](https://github.com/sduff/adding_rest_api_to_python_app/workflows/Test%20with%20Python%202.x/badge.svg)
+### References
+https://docs.python.org/3/library/http.server.html#http.server.BaseHTTPRequestHandler
 
+![](https://github.com/sduff/adding_rest_api_to_python_app/workflows/Test%20with%20Python%202.x/badge.svg)
 ![](https://github.com/sduff/adding_rest_api_to_python_app/workflows/Test%20with%20Python%203.x/badge.svg)
