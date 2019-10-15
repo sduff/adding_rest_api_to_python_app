@@ -10,6 +10,6 @@ requests.
 
 No authentication enabled, no SSL. Not Production ready!
 
-![](https://github.com/sduff/adding_rest_api_to_python_app/workflows/Test with Python 2.x/badge.svg)
+![](https://github.com/sduff/adding_rest_api_to_python_app/workflows/Test%20with%20Python%202.x/badge.svg)
 
-![](https://github.com/sduff/adding_rest_api_to_python_app/workflows/Test with Python 3.x/badge.svg)
+![](https://github.com/sduff/adding_rest_api_to_python_app/workflows/Test%20with%20Python%203.x/badge.svg)
