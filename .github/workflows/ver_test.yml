@@ -15,4 +15,4 @@ jobs:
       with:
         python-version: ${{ matrix.python_ver }}
     - name: start server
-      run: python app.py
+      run: python app.py & sleep 10 && curl -X http://localhost:1024
